@@ -5,7 +5,7 @@
 ### 👩‍💻 Socials:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0091ff)](https://t.me/fanskletss)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=0091ff)](www.youtube.com/@Dellroy_IT)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=0091ff)](https://www.youtube.com/channel/UC8erPQx5RJ8IF2NtPPRzrvQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=0091ff)](https://www.instagram.com/its_dellroy?igsh=MW1kMDE5cTRnbTdjOQ==)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=0091ff)](https://vk.com/dklinov7)
 
