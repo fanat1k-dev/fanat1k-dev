@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is <a href="#" target="_blank">Fanat1k</a> 
+<h1 align="center">Hello, my name is <a href="https://t.me/fanat1k_dev" target="_blank">Fanat1k</a> 
 <h4 align="center">And I'm a beginner Front-End developer with great expirience</h4>
 
 
